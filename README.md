@@ -16,6 +16,10 @@ The Color Palette Generator is a web-based tool designed to help developers and 
 - **Contrast Tables:**
   - Generates contrast tables to ensure that chosen colors adhere to accessibility standards by providing sufficient contrast between text and background colors.
 
+![image](https://github.com/maskalix/color-palette/assets/46690360/b0e4280c-40f4-4a0d-b965-644de1790106)
+![image](https://github.com/maskalix/color-palette/assets/46690360/574e1afa-ee01-4080-bfb7-536f5d1f4415)
+
+
 ## Usage
 - **Selecting Colors:**
   - Start by choosing base colors for different categories using the intuitive color pickers.
