@@ -1,3 +1,5 @@
+<img src="https://tools.pressline.app/colors/pressline_colors.png" height="250">
+
 # Color Palette by Pressline
 
 The Color Palette Generator is a web-based tool designed to help developers and designers create and manage color schemes for their projects. This application provides an interactive and intuitive interface for selecting and adjusting colors, generating variations for different themes (like light and dark modes), and exporting color codes directly into CSS.
