@@ -25,7 +25,7 @@ The Color Palette Generator is a web-based tool designed to help developers and 
   - Easily integrate the generated CSS into your project or use the provided script to apply colors based on a hash code.
 
 ## Getting Started
-To get started with the Color Palette Generator, visit https://tools.pressline.app/colors or clone the repository, and set it up on a local server or hosting environment. Make sure all dependencies are included as specified in the project files.
+To get started with the Color Palette Generator, visit https://tools.pressline.app/colors/ or clone the repository, and set it up on a local server or hosting environment. Make sure all dependencies are included as specified in the project files.
 
 ## Technologies
 - **PHP:** Used for server-side logic, including dynamic content generation and caching control.
